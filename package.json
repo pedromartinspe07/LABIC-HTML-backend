@@ -4,7 +4,7 @@
     "description": "Backend para registrar logs de acesso.",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "npm install --omit=dev && node server.js"
     },
     "dependencies": {
         "cors": "^2.8.5",
