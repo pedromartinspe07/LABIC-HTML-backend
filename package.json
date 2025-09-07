@@ -1,0 +1,12 @@
+{
+    "name": "labic-html-backend",
+    "version": "1.0.0",
+    "description": "Backend para registrar logs de acesso.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
